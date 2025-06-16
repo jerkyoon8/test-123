@@ -1,7 +1,12 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nicholas
 oach: Oscar
+=======
+manager: Nora
+oach: Melissa
+>>>>>>> e775e18 (Edit Leopards)
 
 members:
 - Linda
